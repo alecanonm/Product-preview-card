@@ -118,7 +118,7 @@ p {
   color: hsl(228, 45%, 44%);
 }
 
-@media (width: 750px) {
+@media (max-width: 750px) {
   body {
     height: 100%;
     padding: 30px;
